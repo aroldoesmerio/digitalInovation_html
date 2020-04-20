@@ -1,0 +1,32 @@
+body {
+
+background: orange;
+
+margin-left: 500px;
+margin-right: 500px;
+
+
+}
+
+header {
+    text-align: center;
+    margin-bottom: 70px;
+
+}
+
+ p{
+     color: white;
+     
+
+}
+
+h1 {
+    margin-top: 70px;
+    color: white;
+    
+}
+
+h2 {
+    color: white;
+}
+
